@@ -1,8 +1,8 @@
-# MBD_IMDB_analysis
+# IMDB data analysis for Managing big data project
 
 This is the code written to analyse the IMDB dataset used for the report " Big Data on the Big Screen: Analyzing Movie Popularity Trends ".  Code files related to each research question: 
 
-Data preprocessing Example: DataPreprocessing.py is the pyspark script to preprocess the data. 
+###Data preprocessing Example:### DataPreprocessing.py is the pyspark script to preprocess the data. 
 
 Popularity of movie genres across regions: CountryGenre.py is the pyspark script to extract data and Country_Genre_Maps.ipynb is the jupyter notebook file for data visualization. 
 
